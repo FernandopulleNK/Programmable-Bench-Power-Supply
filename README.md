@@ -45,6 +45,8 @@ Designed with low-ripple, high-precision regulation for stable output.
 Efficient power conversion and heat dissipation mechanisms to ensure reliable operation.
 
 # Architectural Block Diagrams
+[Programmable Power  Supply - Schematic.pdf](https://github.com/user-attachments/files/18824577/Programmable.Power.Supply.-.Schematic.pdf)
+
 
 ## 1) Full Product View
 
